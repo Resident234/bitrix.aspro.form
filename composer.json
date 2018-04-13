@@ -1,0 +1,25 @@
+{
+  "name": "bitrix/aspro.form",
+  "description": "Feedback Form for Bitrix",
+  "keywords": ["bitrix", "form"],
+  "homepage": "https://github.com/Resident234/bitrix.aspro.form",
+  "type": "bitrix-component",
+  "license": "MIT",
+  "support": {
+    "email": "gsu1234@mail.ru",
+    "skype": "gsu_resident234",
+    "issues": "https://github.com/Resident234/bitrix.aspro.form/issues",
+    "source": "https://github.com/Resident234/bitrix.aspro.form/"
+  },
+  "authors": [
+    {
+      "name": "Sergey Gladyshev",
+      "homepage": "http://resident234.xyz",
+      "email": "gsu1234@mail.ru"
+    }
+  ],
+  "require": {
+    "php":">=5.4.0",
+    "composer/installers": "~1"
+  }
+}
